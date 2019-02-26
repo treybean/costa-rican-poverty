@@ -72,3 +72,6 @@ docs/_build/
 
 # .local
 .local/
+
+# VS Code
+.vscode
